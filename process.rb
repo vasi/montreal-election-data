@@ -36,6 +36,10 @@ votes.each do |r|
 end
 
 # Print out the totals
+all = 0
 totals.sort_by { |p, v| v }.reverse.each do |p, v|
 	puts "%7d  %s" % [v, p]
+	all += v
 end
+puts
+puts "Total: %d" % [all]
