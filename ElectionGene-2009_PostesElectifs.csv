@@ -1,0 +1,104 @@
+no;type;poste
+0,00;Maire de la Ville de Montréal;Maire de la Ville de Montréal
+1,00;Maire d'arrondissement;Mairie de l'arrondissement d'Ahuntsic-Cartierville 
+1,10;Conseiller de ville;District électoral du Sault-au-Récollet  
+1,20;Conseiller de ville;District électoral de Saint-Sulpice
+1,30;Conseiller de ville;District électoral d'Ahuntsic
+1,40;Conseiller de ville;District électoral de Bordeaux-Cartierville 
+2,00;Maire d'arrondissement;Mairie de l'arrondissement d'Anjou
+2,01;Conseiller de ville;Conseiller de ville arrondissement d'Anjou
+2,10;Conseillier d'arrondissement;District électoral de l'Ouest 
+2,20;Conseillier d'arrondissement;District électoral de l'Est
+2,30;Conseillier d'arrondissement;District électoral du dentre 
+3,00;Maire d'arrondissement;Mairie de l'arrondissement de Côte-des-Neiges–Notre-Dame-de-Grâce 
+3,10;Conseiller de ville;District électoral de Darlington 
+3,20;Conseiller de ville;District électoral de Côte-des-Neiges 
+3,30;Conseiller de ville;District électoral de Snowdon 
+3,40;Conseiller de ville;District électoral de Notre-Dame-de-Grâce 
+3,50;Conseiller de ville;District électoral de Loyola 
+4,00;Maire d'arrondissement;Mairie de l'arrondissement de Lachine 
+4,01;Conseiller de ville;Conseiller de ville arrondissement de Lachine 
+4,10;Conseillier d'arrondissement;District électoral du Canal 
+4,20;Conseillier d'arrondissement;District électoral de J.-Émery-Provost 
+4,30;Conseillier d'arrondissement;District électoral du Fort-Rolland 
+5,00;Maire d'arrondissement;Mairie de l'arrondissement de LaSalle 
+5,10;Conseiller de ville;District électoral du Sault-Saint-Louis 
+5,11;Conseillier d'arrondissement;District électoral du Sault-Saint-Louis (siège 1) 
+5,12;Conseillier d'arrondissement;District électoral du Sault-Saint-Louis (siège 2) 
+5,20;Conseiller de ville;District électoral de Cecil-P.-Newman 
+5,21;Conseillier d'arrondissement;District électoral de Cecil-P.-Newman (siège 1) 
+5,22;Conseillier d'arrondissement;District électoral de Cecil-P.-Newman (siège 2) 
+6,00;Maire d'arrondissement;Mairie de l'arrondissement de L'Île-Bizard–Sainte-Geneviève 
+6,10;Conseillier d'arrondissement;District électoral de Pierre-Foretier 
+6,20;Conseillier d'arrondissement;District électoral de Denis-Benjamin-Viger 
+6,30;Conseillier d'arrondissement;District électoral de Jacques-Bizard 
+6,40;Conseillier d'arrondissement;District électoral de Sainte-Geneviève
+7,00;Maire d'arrondissement;Mairie de l'arrondissement de Mercier–Hochelaga-Maisonneuve 
+7,10;Conseillier d'arrondissement;District électoral de Tétreaultville 
+7,20;Conseillier d'arrondissement;District électoral de Maisonneuve–Longue-Pointe 
+7,30;Conseillier d'arrondissement;District électoral d'Hochelaga 
+7,40;Conseillier d'arrondissement;District électoral de Louis-Riel
+8,00;Maire d'arrondissement;Mairie de l'arrondissement de Montréal-Nord 
+8,10;Conseiller de ville;District électoral de Marie-Clarac 
+8,11;Conseillier d'arrondissement;District électoral de Marie-Clarac 
+8,20;Conseiller de ville;District électoral d'Ovide-Clermont 
+8,21;Conseillier d'arrondissement;District électoral d'Ovide-Clermont 
+9,00;Maire d'arrondissement;Mairie de l'arrondissement d'Outremont 
+9,10;Conseillier d'arrondissement;District électoral de Claude-Ryan 
+9,20;Conseillier d'arrondissement;District électoral de Joseph-Beaubien 
+9,30;Conseillier d'arrondissement;District électoral de Robert-Bourassa 
+9,40;Conseillier d'arrondissement;District électoral de Jeanne-Sauvé
+10,00;Maire d'arrondissement;Mairie de l'arrondissement de Pierrefonds-Roxboro 
+10,10;Conseiller de ville;District électoral de l'Est (Pierrefonds-Roxboro) 
+10,11;Conseillier d'arrondissement;District électoral de l'Est (Pierrefonds-Roxboro) 
+10,20;Conseiller de ville;District électoral de l'Ouest (Pierrefonds-Roxboro) 
+10,21;Conseillier d'arrondissement;District électoral de l'Ouest (Pierrefonds-Roxboro)
+11,00;Maire d'arrondissement;Mairie de l'arrondissement du Plateau-Mont-Royal 
+11,10;Conseiller de ville;District électoral du Mile End 
+11,11;Conseillier d'arrondissement;District électoral du Mile End 
+11,20;Conseiller de ville;District électoral de De Lorimier 
+11,21;Conseillier d'arrondissement;District électoral de De Lorimier 
+11,30;Conseiller de ville;District électoral de Jeanne-Mance
+11,31;Conseillier d'arrondissement;District électoral de Jeanne-Mance
+12,00;Maire d'arrondissement;Mairie de l'arrondissement de Rivière-des-Prairies–Pointe-aux-Trembles 
+21,10;Conseiller de ville;District électoral de La Pointe-aux-Prairies 
+12,11;Conseillier d'arrondissement;District électoral de La Pointe-aux-Prairies 
+12,20;Conseiller de ville;District électoral de Pointe-aux-Trembles 
+12,21;Conseillier d'arrondissement;District électoral de Pointe-aux-Trembles 
+12,30;Conseiller de ville;District électoral de Rivière-des-Prairies 
+12,31;Conseillier d'arrondissement;District électoral de Rivière-des-Prairies
+13,00;Maire d'arrondissement;Mairie de l'arrondissement de Rosemont–La Petite-Patrie 
+13,10;Conseiller de ville;District électoral de Saint-Édouard 
+13,20;Conseiller de ville;District électoral d'Étienne-Desmarteaux 
+13,30;Conseiller de ville;District électoral du Vieux-Rosemont 
+13,40;Conseiller de ville;District électoral de Marie-Victorin
+14,00;Maire d'arrondissement;Mairie de l'arrondissement de Saint-Laurent 
+14,10;Conseiller de ville;District électoral de la Côte-de-Liesse 
+14,11;Conseillier d'arrondissement;District électoral de la Côte-de-Liesse 
+14,20;Conseiller de ville;District électoral de Norman-McLaren 
+14,21;Conseillier d'arrondissement;District électoral de Norman-McLaren 
+15,00;Maire d'arrondissement;Mairie de l'arrondissement de Saint-Léonard 
+15,10;Conseiller de ville;District électoral de Saint-Léonard-Est 
+15,11;Conseillier d'arrondissement;District électoral de Saint-Léonard-Est 
+15,20;Conseiller de ville;District électoral de Saint-Léonard-Ouest 
+15,21;Conseillier d'arrondissement;District électoral de Saint-Léonard-Ouest 
+16,00;Maire d'arrondissement;Mairie de l'arrondissement du Sud-Ouest 
+16,10;Conseillier d'arrondissement;District électoral de Saint-Henri–La Petite-Bourgogne–Pointe-Saint-Charles 
+16,11;Conseiller de ville;District électoral de Saint-Henri–La Petite-Bourgogne–Pointe-Saint-Charles 
+16,20;Conseillier d'arrondissement;District électoral de Saint-Paul–Émard 
+16,21;Conseiller de ville;District électoral de Saint-Paul–Émard 
+17,00;Maire d'arrondissement;Mairie de l'arrondissement de Verdun 
+17,10;Conseiller de ville;District électoral de Champlain?L'Île-des-Soeurs 
+17,11;Conseillier d'arrondissement;District électoral de Champlain?L'Île-des-Soeurs (siège 1) 
+17,12;Conseillier d'arrondissement;District électoral de Champlain?L'Île-des-Soeurs (siège 2) 
+17,20;Conseiller de ville;District électoral de Desmarchais-Crawford 
+17,21;Conseillier d'arrondissement;District électoral de Desmarchais-Crawford (siège 1) 
+17,22;Conseillier d'arrondissement;District électoral de Desmarchais-Crawford (siège 2)
+18,10;Conseiller de ville;District électoral de Peter-McGill 
+18,20;Conseiller de ville;District électoral de Saint-Jacques 
+18,30;Conseiller de ville;District électoral de Sainte-Marie 
+19,00;Maire d'arrondissement;Mairie de l'arrondissement de Villeray–Saint-Michel–Parc-Extension 
+19,10;Conseiller de ville;District électoral de Saint-Michel
+19,20;Conseiller de ville;District électoral de François-Perrault 
+19,30;Conseiller de ville;District électoral de Villeray 
+19,40;Conseiller de ville;District électoral de Parc-Extension 
