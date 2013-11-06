@@ -1,4 +1,10 @@
-Data files are ALL RIGHTS RESERVED, VILLE DE MONTREAL, see http://www.resultats-election-montreal.ca/resultats-sommaires-arrondissement.en.html . All code is subject to the following license:
+Data files are ALL RIGHTS RESERVED, VILLE DE MONTREAL, see http://www.resultats-election-montreal.ca/resultats-sommaires-arrondissement.en.html . It was downloaded from the following URLs:
+
+http://www.resultats-election-montreal.ca/data/[1-19].json
+http://www.resultats-election-montreal.ca/data/maire_arrondissement.json
+
+
+All code is subject to the following license:
 
 
 Copyright (c) 2013 Dave Vasilevsky
